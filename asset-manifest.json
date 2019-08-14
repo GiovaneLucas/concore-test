@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GiovaneLucas/concore-test/static/css/main.34de6062.chunk.css",
-    "main.js": "/GiovaneLucas/concore-test/static/js/main.0f40347f.chunk.js",
-    "main.js.map": "/GiovaneLucas/concore-test/static/js/main.0f40347f.chunk.js.map",
-    "runtime~main.js": "/GiovaneLucas/concore-test/static/js/runtime~main.74ffac8d.js",
-    "runtime~main.js.map": "/GiovaneLucas/concore-test/static/js/runtime~main.74ffac8d.js.map",
-    "static/js/2.13c4940e.chunk.js": "/GiovaneLucas/concore-test/static/js/2.13c4940e.chunk.js",
-    "static/js/2.13c4940e.chunk.js.map": "/GiovaneLucas/concore-test/static/js/2.13c4940e.chunk.js.map",
-    "index.html": "/GiovaneLucas/concore-test/index.html",
-    "precache-manifest.3a3a3500d519a197457394b91a59939b.js": "/GiovaneLucas/concore-test/precache-manifest.3a3a3500d519a197457394b91a59939b.js",
-    "service-worker.js": "/GiovaneLucas/concore-test/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/GiovaneLucas/concore-test/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/concore-test/static/css/main.34de6062.chunk.css",
+    "main.js": "/concore-test/static/js/main.ccf50f8a.chunk.js",
+    "main.js.map": "/concore-test/static/js/main.ccf50f8a.chunk.js.map",
+    "runtime~main.js": "/concore-test/static/js/runtime~main.1cf033ff.js",
+    "runtime~main.js.map": "/concore-test/static/js/runtime~main.1cf033ff.js.map",
+    "static/js/2.13c4940e.chunk.js": "/concore-test/static/js/2.13c4940e.chunk.js",
+    "static/js/2.13c4940e.chunk.js.map": "/concore-test/static/js/2.13c4940e.chunk.js.map",
+    "index.html": "/concore-test/index.html",
+    "precache-manifest.c762f9a606eff7758556da8baefcb9f2.js": "/concore-test/precache-manifest.c762f9a606eff7758556da8baefcb9f2.js",
+    "service-worker.js": "/concore-test/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/concore-test/static/css/main.34de6062.chunk.css.map"
   }
 }
