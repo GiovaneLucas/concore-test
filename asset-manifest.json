@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GiovaneLucas/concore-test/static/css/main.34de6062.chunk.css",
+    "main.js": "/GiovaneLucas/concore-test/static/js/main.0f40347f.chunk.js",
+    "main.js.map": "/GiovaneLucas/concore-test/static/js/main.0f40347f.chunk.js.map",
+    "runtime~main.js": "/GiovaneLucas/concore-test/static/js/runtime~main.74ffac8d.js",
+    "runtime~main.js.map": "/GiovaneLucas/concore-test/static/js/runtime~main.74ffac8d.js.map",
+    "static/js/2.13c4940e.chunk.js": "/GiovaneLucas/concore-test/static/js/2.13c4940e.chunk.js",
+    "static/js/2.13c4940e.chunk.js.map": "/GiovaneLucas/concore-test/static/js/2.13c4940e.chunk.js.map",
+    "index.html": "/GiovaneLucas/concore-test/index.html",
+    "precache-manifest.3a3a3500d519a197457394b91a59939b.js": "/GiovaneLucas/concore-test/precache-manifest.3a3a3500d519a197457394b91a59939b.js",
+    "service-worker.js": "/GiovaneLucas/concore-test/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/GiovaneLucas/concore-test/static/css/main.34de6062.chunk.css.map"
+  }
+}
